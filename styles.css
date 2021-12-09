@@ -1,0 +1,35 @@
+.reference {
+    font-size: 12px;
+    color: blue;
+    text-align: center;
+}
+h1 {
+    color: gold;
+}
+h2 {
+    color: red;
+}
+h3 {
+    color: green;
+}
+* {
+    font-family: "Times New Roman", sans-serif;
+    background-color: grey;
+}
+ul {
+    text-align: right;
+}
+ul ul {
+    text-align: left;
+}
+ol {
+    text-align: center;
+}
+li {
+    font-size: 18px;
+    color: pink;
+}
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
