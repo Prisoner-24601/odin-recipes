@@ -1,3 +1,3 @@
 # odin-recipes
 #This project showcases the use of ordered and unordered lists as well as images and href links to construct a small website of cooking recipes. While completing the project, I will utilize the Linux terminal to change directories, create and open files, and push commits to Github, will utilize Git to keep record of the substantial additions and changes I make to my project files, and will of course utilize basic HTML to build the website itself.
-This project is a part of the curriculum of The Odin Project.
+#This project is a part of the curriculum of The Odin Project.
